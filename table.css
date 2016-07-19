@@ -60,3 +60,7 @@ table.company td {
     width: 360px;
     padding-left: 20px;
 }
+
+body{
+  background-image: url(./background.gif);
+}
